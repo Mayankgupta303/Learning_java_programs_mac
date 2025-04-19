@@ -6,5 +6,6 @@ public class lab01 {
 
         System.out.print("Hello test");
         System.out.print("Hello test");
+
     }
 }
