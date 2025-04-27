@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package ex_01_Java_Basic.Lab001_HelloWorldFrogram;
 
 public class lab01 {
     public static void main(String[] args) {
