@@ -9,7 +9,7 @@ public class lab004_operators_arithmatic {
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
-        System.out.println(a/b);
+        System.out.println(a/b);  
         System.out.println(a/c);
 
     }
