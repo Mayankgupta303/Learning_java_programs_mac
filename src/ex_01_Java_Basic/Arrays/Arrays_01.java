@@ -1,5 +1,7 @@
 package ex_01_Java_Basic.Arrays;
 
+import java.util.Arrays;
+
 public class Arrays_01 {
     public static void main(String[] args) {
 
