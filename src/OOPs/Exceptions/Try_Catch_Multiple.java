@@ -10,6 +10,6 @@ public class Try_Catch_Multiple {
         } catch (Exception e) {
             System.out.println("Are You Fool");;
         }
-        System.out.println("2");
+        System.out.println("2 ");
     }
 }
